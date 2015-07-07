@@ -4,7 +4,6 @@
 	"http://java.sun.com/dtd/web-app_2_3.dtd">
 	
 <web-app>
-
 	<servlet>
 		<servlet-name>EchoServlet</servlet-name>
 		<servlet-class>input.EchoServlet</servlet-class>
@@ -14,5 +13,4 @@
 		<servlet-name>EchoServlet</servlet-name>
 		<url-pattern>/echoservlet</url-pattern>
 	</servlet-mapping>
-
 </web-app>

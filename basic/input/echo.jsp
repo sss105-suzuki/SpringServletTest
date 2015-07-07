@@ -1,5 +1,5 @@
-<%@page pageEncoding="Windows-31J" contentType="text/html; charset=Windows-31J" %>
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<%@page pageEncoding="Windows-31J" contentType="text/html; charset=Windows-31J" %>
 <html>
 	<head>
 		<meta http-equiv="Content-Type" content="text/html; charset=Windows-31J"/>
