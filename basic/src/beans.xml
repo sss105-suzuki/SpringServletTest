@@ -2,10 +2,11 @@
 <!DOCTYPE beans PUBLIC 
 	"-//SPRING//DTD BEAN//EN" 
 	"http://www.springframework.org/dtd/spring-beans.dtd">
-<beans>
+<beans xmlns:context="http://www.springframework.org/schema/context">
     <bean id="springtest" class="input.strEdit">
         <property name="template">
             <value>message=</value>
         </property>
     </bean>
+    <context:annotation-config />
 </beans>
